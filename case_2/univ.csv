@@ -1,3 +1,3 @@
-type, name, creationYear, domain, studentNumber, name, ref, studentName, studentRef, groupName, groupYear, groupLevel
+type, name, creationYear, domain, studentNumber, studentName, studentRef, groupName, groupYear, groupLevel
 university, HEI, 2021, IT, 200, Rakoto, STD0001, A1, 2023, L2
 university, HEI, 2021, IT, 200, Rabe, STD0002, A2, 2023, L3
